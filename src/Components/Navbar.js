@@ -3,7 +3,8 @@ import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
 import ButtonGroup from '@mui/material/ButtonGroup';
 import { Link } from "react-router-dom";
-import MakeReservation from './MakeReservation'
+import Datamap from './Datamap'
+import MakeReservation from './MakeReservation';
 
 const Navbar = ({ data }) => {
 
@@ -30,6 +31,9 @@ const Navbar = ({ data }) => {
                     {buttons}
                 </ButtonGroup>
             </Box>
+            <MakeReservation />
+            <Datamap />
+            {/* <Datamap data={data} /> */}
             {/* {data.map(d => (
                 <MakeReservation key={d.id}
                                     restaurant={d.restaurant}
