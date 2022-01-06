@@ -1,10 +1,10 @@
-import React from 'react';
+// import React from 'react';
 
-const About = () => {
+// const About = () => {
     
-    return (
-        null
-    )
-}
+//     return (
+//         null
+//     )
+// }
 
-export default About
+// export default About
