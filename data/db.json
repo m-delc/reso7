@@ -1,0 +1,52 @@
+{
+    "resos": [
+      {
+        "id": "1",
+        "guestname": "Tam",
+        "restaurant": "The Stake",
+        "date": "2022/01/29",
+        "time": "7:30",
+        "partysize": "2"
+      },
+      {
+        "id": "2",
+        "guestname": "Kip",
+        "restaurant": "Grits All Day",
+        "date": "2022/01/28",
+        "time": "8:00",
+        "partysize": "3"
+      },
+      {
+        "id": "3",
+        "guestname": "Eloise",
+        "restaurant": "La Cucina",
+        "date": "2022/01/27",
+        "time": "6:30",
+        "partysize": "4"
+      },
+      {
+        "id": "4",
+        "guestname": "Sarin",
+        "restaurant": "Stew You",
+        "date": "2022/01/28",
+        "time": "9:00",
+        "partysize": "2"
+      },
+      {
+        "id": "5",
+        "guestname": "Biff",
+        "restaurant": "Fried 'N' Tied",
+        "date": "2022/01/29",
+        "time": "9:00",
+        "partysize": "4"
+      },
+      {
+        "id": "6",
+        "guestname": "Rosalia",
+        "restaurant": "Brine",
+        "date": "2022/01/27",
+        "time": "8:30",
+        "partysize": "2"
+      }
+    ]
+  }

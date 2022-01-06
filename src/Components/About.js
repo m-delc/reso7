@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     
-    return <div>abizout</div>
+    return <div>we bout it</div>
     
 }
 

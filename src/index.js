@@ -1,3 +1,4 @@
+import App from "./App";
 import './index.css'
 import { BrowserRouter, 
   Routes, 
@@ -6,7 +7,6 @@ import { BrowserRouter,
 import { render } from "react-dom";
 import CssBaseline from 
   '@material-ui/core/CssBaseline'
-import App from "./App";
 
 
 
