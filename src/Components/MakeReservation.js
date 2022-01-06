@@ -1,9 +1,9 @@
-// import React from 'react';
+import React from 'react';
 
-// const MakeReservation = () => {
-//     return (
-//         null
-//     )
-// }
+const MakeReservation = () => {
+    
+    return <div>MAKR</div>
+    
+}
 
-// export default MakeReservation
+export default MakeReservation
